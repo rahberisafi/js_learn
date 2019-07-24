@@ -1,10 +1,17 @@
-let a = 7;
-let b = '6';
-b = parseInt(b, 10);
-let c = a + b;
-console.log('Answer: ' + c);
+// type of expression
+// 1. Variable Declaration
 
-let d = parseInt('bob', 10);
-let e = isNaN(d);
-console.log(d);
-console.log(e);   
+// let a;
+
+// 2. Assign a value
+
+// a = 4;
+
+// perform an evaluation that returns a single value
+
+let b = 3;
+let c = 2;
+// THree expressions in here ,,, can you find them?
+
+let a = b + c;
+console.log(a);
